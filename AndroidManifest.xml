@@ -104,18 +104,18 @@
         </receiver>
 
         <activity android:name=".LiveFolderConfigActivity" android:label="@string/live_folder_drawer_label"
-                  android:permission="com.cyanogenmod.trebuchet.permission.MANAGE_LIVE_FOLDERS"
+                  android:permission="com.mokee.launcher.permission.MANAGE_LIVE_FOLDERS"
                   android:theme="@android:style/Theme.NoDisplay">
                 <intent-filter>
-                   <action android:name="cyanogenmod.intent.action.CREATE_LIVE_FOLDER" />
+                   <action android:name="mokee.intent.action.CREATE_LIVE_FOLDER" />
                 </intent-filter>
         </activity>
 
         <receiver android:name=".LiveFolderReceiver"
-                  android:permission="com.cyanogenmod.trebuchet.permission.MANAGE_LIVE_FOLDERS"
+                  android:permission="com.mokee.launcher.permission.MANAGE_LIVE_FOLDERS"
                   android:exported="true">
                  <intent-filter>
-                    <action android:name="cyanogenmod.intent.action.LIVE_FOLDER_UPDATES" />
+                    <action android:name="mokee.intent.action.LIVE_FOLDER_UPDATES" />
                 </intent-filter>
         </receiver>
 
