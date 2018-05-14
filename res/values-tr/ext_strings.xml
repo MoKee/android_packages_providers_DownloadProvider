@@ -31,9 +31,9 @@
   <!-- Representation of download progress percentage when paused. [CHAR LIMIT=24] -->
   <string name="download_paused_percent">Duraklatıldı, %d%%</string>
   <!-- Text for button to manually resume all manually paused downloads [CHAR LIMIT=25] -->
-  <string name="button_resume_download">Devam</string>
+  <string name="button_resume_download">Devam et</string>
   <!-- Text for button to manually manually pause all running downloads [CHAR LIMIT=25] -->
-  <string name="button_pause_download">duraklat</string>
+  <string name="button_pause_download">Duraklat</string>
   <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
   <string name="notif_summary_paused">%d duraklatıldı</string>
 </resources>
