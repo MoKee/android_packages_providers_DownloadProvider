@@ -17,15 +17,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="duration_seconds">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> সেকেন্ড</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> সেকেন্ড</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> sek.</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> sekund</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> sek.</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> sek.</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> মিনিট</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> মিনিট</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> min.</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> min.</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> min.</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> min.</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> ঘণ্টা</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> ঘণ্টা</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> godz.</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> godz.</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> godz.</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> godz.</item>
     </plurals>
 </resources>
