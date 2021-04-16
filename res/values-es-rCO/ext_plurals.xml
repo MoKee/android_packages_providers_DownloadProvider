@@ -16,21 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="duration_seconds">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> diog</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> dhiog</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> diogan</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> diog</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> s</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> s</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> mhion</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> mhion</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> mion</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> mion</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> m</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> m</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> uair</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> uair</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> uair</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> uair</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> h</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> h</item>
     </plurals>
 </resources>

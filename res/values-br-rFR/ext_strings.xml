@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014 The CyanogenMod Project
+     Copyright (C) 2013-2016 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,16 +15,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <plurals name="duration_seconds">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> sek.</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> sek.</item>
-    </plurals>
-    <plurals name="duration_minutes">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> min.</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> min.</item>
-    </plurals>
-    <plurals name="duration_hours">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> oer</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> oer</item>
-    </plurals>
+    <string name="button_resume_download">Adenvel</string>
 </resources>

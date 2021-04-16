@@ -19,6 +19,6 @@
     <string name="download_paused">Em pausa</string>
     <string name="download_paused_percent">Em pausa, %d%%</string>
     <string name="button_resume_download">Continuar</string>
-    <string name="button_pause_download">Pausar</string>
+    <string name="button_pause_download">Pausa</string>
     <string name="notif_summary_paused">%d em pausa</string>
 </resources>

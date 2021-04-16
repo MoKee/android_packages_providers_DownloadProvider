@@ -18,7 +18,7 @@
     <string name="text_download_speed"><xliff:g id="text">%1$s</xliff:g>, <xliff:g id="size" example="230 kB">%2$s</xliff:g>/с</string>
     <string name="download_paused">Приостановлено</string>
     <string name="download_paused_percent">Приостановлено, %d%%</string>
-    <string name="button_resume_download">Возобновить</string>
-    <string name="button_pause_download">Приостановить</string>
+    <string name="button_resume_download">Продолжить</string>
+    <string name="button_pause_download">Пауза</string>
     <string name="notif_summary_paused">%d приостановл.</string>
 </resources>
