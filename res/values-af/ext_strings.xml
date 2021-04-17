@@ -19,5 +19,6 @@
     <string name="download_paused">Gepouseer</string>
     <string name="download_paused_percent">Gepouseer, %d%%</string>
     <string name="button_resume_download">Hervat</string>
+    <string name="button_pause_download">Laat wag</string>
     <string name="notif_summary_paused">%d gepouseer</string>
 </resources>
